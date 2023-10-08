@@ -396,7 +396,7 @@ export default function DemoPage() {
                   </p>
                 </div>
                 <Link
-                  href="https://github.com/Tameyer41/liftoff"
+                  href="https://github.com/bizzybae/liftoff"
                   target="_blank"
                   className="group rounded-full pl-[8px] min-w-[180px] pr-4 py-2 text-[13px] font-semibold transition-all flex items-center justify-center bg-[#1E2B3A] text-white hover:[linear-gradient(0deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)), #0D2247] no-underline flex gap-x-2  active:scale-95 scale-100 duration-75"
                   style={{
@@ -769,7 +769,7 @@ export default function DemoPage() {
                       Restart demo
                     </button>
                     <Link
-                      href="https://github.com/Tameyer41/liftoff"
+                      href="https://github.com/bizzybae/liftoff"
                       target="_blank"
                       className="group rounded-full pl-[8px] min-w-[180px] pr-4 py-2 text-[13px] font-semibold transition-all flex items-center justify-center bg-[#1E2B3A] text-white hover:[linear-gradient(0deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)), #0D2247] no-underline flex gap-x-2  active:scale-95 scale-100 duration-75"
                       style={{
@@ -1396,7 +1396,7 @@ export default function DemoPage() {
                 <ul className="mb-auto list-none">
                   <li className="list-none flex items-center">
                     <p className="text-[12px] font-extrabold text-[#1E293B]">
-                      Liftoff
+                      Start With You
                     </p>
                   </li>
                   <li className="mt-4 list-none flex items-center rounded-[9px] text-gray-900 py-[2px]">
@@ -1604,10 +1604,10 @@ export default function DemoPage() {
                   <hr className="border-[#e8e8ed] w-full" />
                   <li className="mt-1 list-none flex items-center rounded-[9px] text-gray-900 py-[2px]">
                     <div className="h-4 w-4 bg-[#898FA9] rounded-full flex-shrink-0 text-white inline-flex items-center justify-center text-[7px] leading-[6px] pl-[0.5px]">
-                      R
+                      Q
                     </div>
                     <p className="ml-[4px] mr-[6px] flex-shrink-0">
-                      Richard Monroe
+                      Quddarat Mushtaq
                     </p>
                     <div className="ml-auto">
                       <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24">
