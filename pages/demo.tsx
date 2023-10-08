@@ -10,34 +10,40 @@ const questions = [
   {
     id: 1,
     name: "Behavioral",
-    description: "From LinkedIn, Amazon, Adobe",
+    description: "From Saint Elizabeth Hospital Residents",
     difficulty: "Easy",
   },
   {
     id: 2,
     name: "Technical",
-    description: "From Google, Meta, and Apple",
+    description: "From Ross University Faculty",
     difficulty: "Medium",
   },
+  {
+    id: 3,
+    name: "Personal",
+    description: "From Fellow Rossies",
+    difficulty: "Hard",
+  }
 ];
 
 const interviewers = [
   {
     id: "John",
     name: "John",
-    description: "Software Engineering",
+    description: "Attending",
     level: "L3",
   },
   {
     id: "Richard",
     name: "Richard",
-    description: "Product Management",
+    description: "Resident",
     level: "L5",
   },
   {
     id: "Sarah",
     name: "Sarah",
-    description: "Other",
+    description: "Program Director",
     level: "L7",
   },
 ];
