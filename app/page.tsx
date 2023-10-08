@@ -32,9 +32,6 @@ export default function Home() {
           <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlSpace="preserve"
-    style={{
-      enableBackground: "new 0 0 1402.7 423.5",
-    }}
     viewBox="0 0 1402.7 423.5"
     width="10em"
     height="10em"
