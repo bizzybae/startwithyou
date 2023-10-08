@@ -852,7 +852,7 @@ export default function DemoPage() {
                     Select a question type
                   </h2>
                   <p className="text-[14px] leading-[20px] text-[#1a2b3b] font-normal my-4">
-                    We have hundreds of questions from top tech companies.
+                    We have hundreds of questions from top program directors.
                     Choose a type to get started.
                   </p>
                   <div>
@@ -1769,14 +1769,14 @@ export default function DemoPage() {
                             <div className="absolute inset-0 rounded-lg ring-1 ring-inset ring-zinc-900/[7.5%] group-hover:ring-zinc-900/10"></div>
                             <div className="relative flex h-full flex-col overflow-hidden">
                               <div className="flex items-center text-left text-[#1a2b3b]">
-                                <p>Why this company?</p>
+                                <p>Why this specialty?</p>
                               </div>
                               <p className="text-wrap grow font-normal text-[7px]">
-                                Why do you want to work for Google?
+                                Why this hospital?
                               </p>
                               <div className="flex flex-row space-x-1">
                                 <p className="inline-flex items-center justify-center truncate rounded-full border-[0.5px] border-gray-300 px-[3px] text-[7px] font-normal hover:bg-gray-50">
-                                  Product Management
+                                  Weeding Out
                                 </p>
                                 <p className="inline-flex items-center justify-center truncate rounded-full border-[0.5px] border-[#D0E7DC] bg-[#F3FAF1] px-[3px] text-[7px] font-normal hover:bg-[#edf8ea]">
                                   <span className="mr-1 flex items-center text-emerald-600">
@@ -1872,7 +1872,7 @@ export default function DemoPage() {
                               </p>
                               <div className="flex flex-row space-x-1">
                                 <p className="inline-flex items-center justify-center truncate rounded-full border-[0.5px] border-gray-300 px-[3px] text-[7px] font-normal hover:bg-gray-50">
-                                  Product Management
+                                  Open Form
                                 </p>
                                 <p className="inline-flex items-center justify-center truncate rounded-full border-[0.5px] border-[#D0E7DC] bg-[#F3FAF1] px-[3px] text-[7px] font-normal hover:bg-[#edf8ea]">
                                   <span className="mr-1 flex items-center text-emerald-600">
@@ -1920,7 +1920,7 @@ export default function DemoPage() {
                               </p>
                               <div className="flex flex-row space-x-1">
                                 <p className="inline-flex items-center justify-center truncate rounded-full border-[0.5px] border-gray-300 px-[3px] text-[7px] font-normal hover:bg-gray-50">
-                                  Software Engineering
+                                  Self Awareness
                                 </p>
                                 <p className="inline-flex items-center justify-center truncate rounded-full border-[0.5px] border-[#D0E7DC] bg-[#F3FAF1] px-[3px] text-[7px] font-normal hover:bg-[#edf8ea]">
                                   <span className="mr-1 flex items-center text-emerald-600">
@@ -1968,7 +1968,7 @@ export default function DemoPage() {
                               </p>
                               <div className="flex flex-row space-x-1">
                                 <p className="inline-flex items-center justify-center truncate rounded-full border-[0.5px] border-gray-300 px-[3px] text-[7px] font-normal hover:bg-gray-50">
-                                  Product Management
+                                  Self Awareness
                                 </p>
                                 <p className="inline-flex items-center justify-center truncate rounded-full border-[0.5px] border-[#D0E7DC] bg-[#F3FAF1] px-[3px] text-[7px] font-normal hover:bg-[#edf8ea]">
                                   <span className="mr-1 flex items-center text-emerald-600">
@@ -2018,15 +2018,14 @@ export default function DemoPage() {
                             <div className="absolute inset-0 rounded-lg ring-1 ring-inset ring-zinc-900/[7.5%] group-hover:ring-zinc-900/10"></div>
                             <div className="relative flex h-full flex-col overflow-hidden">
                               <div className="flex items-center text-left text-[#1a2b3b]">
-                                <p>Walk me through this function</p>
+                                <p>What inspired you to pursue a career in medicine and specifically this particular specialty?</p>
                               </div>
                               <p className="text-wrap grow font-normal text-[7px]">
-                                Explain in as much detail as you can what this
-                                function does, including its time and space...
+                                Can you share a meaningful personal story related to your choice?
                               </p>
                               <div className="flex flex-row space-x-1">
                                 <p className="inline-flex items-center justify-center truncate rounded-full border-[0.5px] border-gray-300 px-[3px] text-[7px] font-normal hover:bg-gray-50">
-                                  Software Engineering
+                                  Internal Medicine
                                 </p>
                                 <p className="inline-flex items-center justify-center truncate rounded-full border-[0.5px] border-[#D0E7DC] bg-[#F3FAF1] px-[3px] text-[7px] font-normal hover:bg-[#edf8ea]">
                                   <span className="mr-1 flex items-center text-emerald-600">
@@ -2066,15 +2065,14 @@ export default function DemoPage() {
                             <div className="absolute inset-0 rounded-lg ring-1 ring-inset ring-zinc-900/[7.5%] group-hover:ring-zinc-900/10"></div>
                             <div className="relative flex h-full flex-col overflow-hidden">
                               <div className="flex items-center text-left text-[#1a2b3b]">
-                                <p>Uber product expansion</p>
+                                <p>How do you prioritize self-care and maintain a healthy work-life balance in the demanding field of medicine? </p>
                               </div>
                               <p className="text-wrap grow font-normal text-[7px]">
-                                Uber is looking to expand its product line and
-                                wants your take on how...
+                                What activities or hobbies do you enjoy outside of medicine?
                               </p>
                               <div className="flex flex-row space-x-1">
                                 <p className="inline-flex items-center justify-center truncate rounded-full border-[0.5px] border-gray-300 px-[3px] text-[7px] font-normal hover:bg-gray-50">
-                                  Product Management
+                                  Self-Care
                                 </p>
                                 <p className="inline-flex items-center justify-center truncate rounded-full border-[0.5px] border-[#D0E7DC] bg-[#F3FAF1] px-[3px] text-[7px] font-normal hover:bg-[#edf8ea]">
                                   <span className="mr-1 flex items-center text-emerald-600">
@@ -2114,10 +2112,10 @@ export default function DemoPage() {
                             <div className="absolute inset-0 rounded-lg ring-1 ring-inset ring-zinc-900/[7.5%] group-hover:ring-zinc-900/10"></div>
                             <div className="relative flex h-full flex-col overflow-hidden">
                               <div className="flex items-center text-left text-[#1a2b3b]">
-                                <p>Weighing an Airplane</p>
+                                <p>Describe your long-term career goals within the medical field. </p>
                               </div>
                               <p className="text-wrap grow font-normal text-[7px]">
-                                How would you weigh a plane without a scale?
+                                 Where do you see yourself in 5, 10, or 20 years, and how do you plan to achieve those goals?
                               </p>
                               <div className="flex flex-row space-x-1">
                                 <p className="inline-flex items-center justify-center truncate rounded-full border-[0.5px] border-gray-300 px-[3px] text-[7px] font-normal hover:bg-gray-50">
@@ -2161,15 +2159,14 @@ export default function DemoPage() {
                             <div className="absolute inset-0 rounded-lg ring-1 ring-inset ring-zinc-900/[7.5%] group-hover:ring-zinc-900/10"></div>
                             <div className="relative flex h-full flex-col overflow-hidden">
                               <div className="flex items-center text-left text-[#1a2b3b]">
-                                <p>How would you rebuild Twitter?</p>
+                                <p>What qualities or values do you believe are essential for a successful and compassionate healthcare provider? </p>
                               </div>
                               <p className="text-wrap grow font-normal text-[7px]">
-                                Given what you know about Twitter, how would you
-                                architect it from the ground up?
+                                How do you embody them in your practice??
                               </p>
                               <div className="flex flex-row space-x-1">
                                 <p className="inline-flex items-center justify-center truncate rounded-full border-[0.5px] border-gray-300 px-[3px] text-[7px] font-normal hover:bg-gray-50">
-                                  Systems Design
+                                  Character
                                 </p>
                                 <p className="inline-flex items-center justify-center truncate rounded-full border-[0.5px] border-[#D0E7DC] bg-[#F3FAF1] px-[3px] text-[7px] font-normal hover:bg-[#edf8ea]">
                                   <span className="mr-1 flex items-center text-emerald-600">
