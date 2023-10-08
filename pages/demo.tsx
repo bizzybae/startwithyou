@@ -475,7 +475,7 @@ export default function DemoPage() {
                       : "You have a 3-gallon jug and 5-gallon jug, how do you measure out exactly 4 gallons?"}
                   </h2>
                   <span className="text-[14px] leading-[20px] text-[#1a2b3b] font-normal mb-4">
-                    Asked by top companies like Google, Facebook and more
+                    Asked by top programs like JHU, Georgetown and more
                   </span>
                   <motion.div
                     initial={{ y: -20 }}
