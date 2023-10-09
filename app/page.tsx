@@ -210,7 +210,6 @@ export default function Home() {
           <p className="text-white/80 text-base md:text-lg font-semibold md:leading-[60px] whitespace-nowrap flex flex-row">
             Interviews from
           </p>
-          // SVG for GW 
           <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlSpace="preserve"
