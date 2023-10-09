@@ -1679,7 +1679,7 @@ export default function DemoPage() {
                       ) : (
                         <li className="list-none max-w-[400px]">
                           Can you share an experience where you had to adapt your clinical approach due to 
-                          unexpected complications or changes in a patient's condition? 
+                          unexpected complications or changes in a patients condition? 
                           How did you handle the situation?
                         </li>
                       )}
