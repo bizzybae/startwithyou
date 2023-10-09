@@ -1664,24 +1664,23 @@ export default function DemoPage() {
                       {selected.name === "Behavioral"
                         ? "Tell me about yourself"
                         : selectedInterviewer.name === "John"
-                        ? "What is a Hash Table, and what is the average case for each of its operations?"
+                        ? "Residency programs can be physically and emotionally taxing. How do you cope with stress and burnout?"
                         : selectedInterviewer.name === "Richard"
-                        ? "Uber is looking to expand its product line. How would you go about doing this?"
-                        : "You have a 3-gallon jug and 5-gallon jug, how do you measure out exactly 4 gallons?"}
+                        ? "Explain a complex medical condition or procedure you have encountered during your clinical rotations."
+                        : "Discuss a challenging differential diagnosis you encountered during your medical training."}
                     </motion.span>
 
                     <ul className="mt-[28px] flex">
                       {selected.name === "Behavioral" ? (
                         <li className="list-none max-w-[400px]">
-                          Start off by walking me through your resume. Perhaps
-                          begin with your internships in college and move to
-                          more recent projects.
+                          How do you ensure effective communication with patients and their families, 
+                          especially when discussing complex medical information or delivering difficult news?
                         </li>
                       ) : (
                         <li className="list-none max-w-[400px]">
-                          Start off by explaining what the function does, and
-                          its time and space complexities. Then go into how you
-                          would optimize it.
+                          Can you share an experience where you had to adapt your clinical approach due to 
+                          unexpected complications or changes in a patient's condition? 
+                          How did you handle the situation?
                         </li>
                       )}
                     </ul>
