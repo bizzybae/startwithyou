@@ -1,5 +1,5 @@
 <a href="https://demo.startwithyou.ventures">
-  <img alt="Start With You – AI-Powered Mock Residency Interviews" src="https://ik.imagekit.io/e50alxf4r/Screenshot%202023-10-09%20at%2012.37.27%E2%80%AFPM.png?updatedAt=1696869469104e">
+  <img alt="Start With You – AI-Powered Mock Residency Interviews" src="https://ik.imagekit.io/e50alxf4r/Screenshot%202023-10-09%20at%2012.37.27%E2%80%AFPM.png?updatedAt=1696869469104">
   <h1 align="center">Start With You Mock Interviews</h1>
 </a>
 
@@ -31,7 +31,7 @@ Start With You is an interview preparation tool that provides AI feedback on you
 
 ![Landing Page](https://ik.imagekit.io/e50alxf4r/Screenshot%202023-10-09%20at%2012.37.27%E2%80%AFPM.png?updatedAt=1696869469104)
 
-![Interview Selection](https://ik.imagekit.io/9km72asqu/CleanShot_2023-05-31_at_13.35.55_xohCRNMlJ.png?updatedAt=1685554576155)
+![Interview Selection](https://ik.imagekit.io/e50alxf4r/Screenshot%202023-10-09%20at%2012.43.32%E2%80%AFPM.png?updatedAt=1696869830528)
 
 ### Frameworks
 
