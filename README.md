@@ -1,24 +1,23 @@
-<a href="https://demo.useliftoff.com">
-  <img alt="Liftoff – AI-Powered Mock Interviews" src="https://demo.useliftoff.com/opengraph-image">
-  <h1 align="center">Liftoff Interviews</h1>
+<a href="https://demo.startwithyou.ventures">
+  <img alt="Start With You – AI-Powered Mock Residency Interviews" src="https://ik.imagekit.io/e50alxf4r/Screenshot%202023-10-09%20at%2012.37.27%E2%80%AFPM.png?updatedAt=1696869469104">
+  <h1 align="center">Start With You Mock Interviews</h1>
 </a>
 
 <p align="center">
-  Mock Interview Simulator with AI-Powered Feedback
+  Residency Mock Interview Simulator with AI-Powered Feedback
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/tmeyer_me">
-    <img src="https://img.shields.io/twitter/follow/tmeyer_me?style=flat&label=Follow&logo=twitter&color=0bf&logoColor=fff" alt="Tyler Meyer's follower count" />
+  <a href="https://twitter.com/qsmushtaq">
+    <img src="https://img.shields.io/twitter/follow/qsmushtaq?style=flat&label=Follow&logo=twitter&color=0bf&logoColor=fff" alt="Tyler Quddarat's follower count" />
   </a>
-  <a href="https://github.com/Tameyer41/liftoff">
-    <img src="https://img.shields.io/github/stars/Tameyer41/liftoff?label=Tameyer41%2Fliftoff" alt="Liftoff repo star count" />
+  <a href="https://github.com/bizzybae/liftoff">
+    <img src="https://img.shields.io/github/stars/bizzybae/liftoff?label=bizzybae%2Fliftoff" alt="Liftoff repo star count" />
   </a>
 </p>
 
 <p align="center">
   <a href="#introduction"><strong>Introduction</strong></a> ·
-  <a href="#one-click-deploy"><strong>One-click Deploy</strong></a> ·
   <a href="#tech-stack--features"><strong>Tech Stack + Features</strong></a> ·
   <a href="#author"><strong>Author</strong></a>
 </p>
@@ -26,25 +25,13 @@
 
 ## Introduction
 
-Liftoff is an interview preparation tool that provides AI feedback on your mock interviews.
-
-## One-click Deploy
-
-You can deploy this template to Vercel with the button below:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/tameyer41/clone?demo-title=Liftoff%20%E2%80%93%C2%A0AI%20Mock%20Interview%20Simulator&demo-description=Liftoff%20is%20an%20interview%20preparation%20tool%20that%20provides%20AI%20feedback%20on%20your%20mock%20interviews%2C%20built%20with%20OpenAI%20Whisper%20and%20GPT.&demo-url=https%3A%2F%2Fdemo.useliftoff.com%2F&demo-image=%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F5TbjLXmeKdo2rURpnjIEqn%2Fc7c8fc350183e8cd3c819d172c0005ac%2F68747470733a2f2f696b2e696d6167656b69742e696f2f396b6d3732617371752f436c65616e53686f745f323032332d30352d33315f61745f31322e34332e35&project-name=Liftoff%20%E2%80%93%C2%A0AI%20Mock%20Interview%20Simulator&repository-name=liftoff&repository-url=https%3A%2F%2Fgithub.com%2FTameyer41%2Fliftoff&from=templates&skippable-integrations=1&env=OPENAI_API_KEY&envDescription=Get%20your%20OpenAI%20API%20key%20here%3A&envLink=https%3A%2F%2Fplatform.openai.com%2Faccount%2Fapi-keys)
-
-You can also clone & create this repo locally with the following command:
-
-```bash
-npx create-next-app liftoff --example "https://github.com/Tameyer41/liftoff"
-```
+Start With You is an interview preparation tool that provides AI feedback on your mock residency interviews.
 
 ## Tech Stack + Features
 
-![Landing Page](https://ik.imagekit.io/9km72asqu/CleanShot_2023-05-31_at_12.43.54_svKkqF7dA.png?updatedAt=1685551454273)
+![Landing Page](https://ik.imagekit.io/e50alxf4r/Screenshot%202023-10-09%20at%2012.37.27%E2%80%AFPM.png?updatedAt=1696869469104)
 
-![Interview Selection](https://ik.imagekit.io/9km72asqu/CleanShot_2023-05-31_at_13.35.55_xohCRNMlJ.png?updatedAt=1685554576155)
+![Interview Selection](https://ik.imagekit.io/e50alxf4r/Screenshot%202023-10-09%20at%2012.43.32%E2%80%AFPM.png?updatedAt=1696869830528)
 
 ### Frameworks
 
@@ -76,10 +63,14 @@ npx create-next-app liftoff --example "https://github.com/Tameyer41/liftoff"
 
 ## How it all works
 
-Liftoff uses FFmpeg to transcode the raw video into MP3. Chrome, Safari, and Firefox all record with different codecs, and FFmpeg is great for standardizing them.
+Start With You uses FFmpeg to transcode the raw video into MP3. Chrome, Safari, and Firefox all record with different codecs, and FFmpeg is great for standardizing them.
 
 We then send the audio directly to be transcribed by OpenAI's Whisper endpoint, and then stream feedback from the edge using OpenAI's gpt-3.5-turbo.
 
 ## Author
+
+- Quddarat Mushtaq ([@qsmushtaq](https://twitter.com/qsmushtaq))
+
+## Credits for Original Idea
 
 - Tyler Meyer ([@tmeyer_me](https://twitter.com/tmeyer_me))
