@@ -202,10 +202,10 @@ export default function DemoPage() {
         selected.name === "Behavioral"
           ? `Tell me about yourself. Why don${`’`}t you walk me through your resume?`
           : selectedInterviewer.name === "John"
-          ? "What is a Hash Table, and what is the average case and worst case time for each of its operations?"
+          ? "Why did you choose this specialty?"
           : selectedInterviewer.name === "Richard"
-          ? "Uber is looking to expand its product line. Talk me through how you would approach this problem."
-          : "You have a 3-gallon jug and 5-gallon jug, how do you measure out exactly 4 gallons?";
+          ? "Describe a challenging situation you faced in medical school and how you handled it."
+          : "How do you handle stress or pressure?";
 
       setStatus("Transcribing");
 
@@ -469,10 +469,10 @@ export default function DemoPage() {
                     {selected.name === "Behavioral"
                       ? `Tell me about yourself. Why don${`’`}t you walk me through your resume?`
                       : selectedInterviewer.name === "John"
-                      ? "What is a Hash Table, and what is the average case and worst case time for each of its operations?"
+                      ? "Why did you choose this specialty?"
                       : selectedInterviewer.name === "Richard"
-                      ? "Uber is looking to expand its product line. Talk me through how you would approach this problem."
-                      : "You have a 3-gallon jug and 5-gallon jug, how do you measure out exactly 4 gallons?"}
+                      ? "What are your strengths and weaknesses?"
+                      : "Tell me about a time you made a mistake and how you addressed it."}
                   </h2>
                   <span className="text-[14px] leading-[20px] text-[#1a2b3b] font-normal mb-4">
                     Asked by top programs like JHU, Georgetown and more
