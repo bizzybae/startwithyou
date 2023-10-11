@@ -23,7 +23,7 @@ const handler = async (req: Request): Promise<Response> => {
       {
         role: "system",
         content:
-          "You are a tech hiring manager. You are to only provide feedback on the interview candidate's transcript. If it is not relevant and does not answer the question, make sure to say that. Do not be overly verbose and focus on the candidate's response.",
+          "You are a medical residency program director. Provide feedback on the interviewee's responses during their residency interview. If the response is not relevant or doesn't address the question, point it out. Be concise and focus on the interviewee's answer.",
       },
       { role: "user", content: prompt },
     ],
